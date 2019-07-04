@@ -1,0 +1,150 @@
+1) Name: google
+Repo: robotstxt
+Stars: 2,399
+Link: https://github.com/google/robotstxt
+Desc: The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
+
+2) Name: open-deepnude
+Repo: open-deepnude
+Stars: 301
+Link: https://github.com/open-deepnude/open-deepnude
+Desc: Open source reverse-engineered clone of DeepNude
+
+3) Name: yuanxiaosc
+Repo: DeepNude-an-Image-to-Image-technology
+Stars: 753
+Link: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
+Desc: DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。
+
+4) Name: 2d-inc
+Repo: developer_quest
+Stars: 1,487
+Link: https://github.com/2d-inc/developer_quest
+Desc: Respository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired.
+
+5) Name: swiftwebui
+Repo: SwiftWebUI
+Stars: 1,392
+Link: https://github.com/swiftwebui/SwiftWebUI
+Desc: A demo implementation of SwiftUI for the Web
+
+6) Name: diasurgical
+Repo: devilution
+Stars: 6,245
+Link: https://github.com/diasurgical/devilution
+Desc: Diablo devolved - magic behind the 1996 computer game
+
+7) Name: segmentio
+Repo: evergreen
+Stars: 8,190
+Link: https://github.com/segmentio/evergreen
+Desc: 🌲 Evergreen React UI Framework by Segment
+
+8) Name: google
+Repo: googletest
+Stars: 12,045
+Link: https://github.com/google/googletest
+Desc: Googletest - Google Testing and Mocking Framework
+
+9) Name: diasurgical
+Repo: devilutionX
+Stars: 894
+Link: https://github.com/diasurgical/devilutionX
+Desc: Diablo build for modern operating systems
+
+10) Name: TheAlgorithms
+Repo: Python
+Stars: 49,214
+Link: https://github.com/TheAlgorithms/Python
+Desc: All Algorithms implemented in Python
+
+11) Name: lantus
+Repo: devilution-nx
+Stars: 326
+Link: https://github.com/lantus/devilution-nx
+Desc: Diablo for the Nintendo Switch
+
+12) Name: awslabs
+Repo: aws-cdk
+Stars: 2,513
+Link: https://github.com/awslabs/aws-cdk
+Desc: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+
+13) Name: sveltejs
+Repo: svelte
+Stars: 20,292
+Link: https://github.com/sveltejs/svelte
+Desc: Cybernetically enhanced web apps
+
+14) Name: andkret
+Repo: Cookbook
+Stars: 1,707
+Link: https://github.com/andkret/Cookbook
+Desc: The Data Engineering Cookbook
+
+15) Name: libuv
+Repo: libuv
+Stars: 12,872
+Link: https://github.com/libuv/libuv
+Desc: Cross-platform asynchronous I/O
+
+16) Name: ory
+Repo: hydra
+Stars: 6,648
+Link: https://github.com/ory/hydra
+Desc: OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.
+
+17) Name: darshanime
+Repo: notes
+Stars: 1,135
+Link: https://github.com/darshanime/notes
+Desc: detailed notes on computer science topics, in one page
+
+18) Name: thingsboard
+Repo: thingsboard
+Stars: 3,665
+Link: https://github.com/thingsboard/thingsboard
+Desc: Open-source IoT Platform - Device management, data collection, processing and visualization.
+
+19) Name: lazyprogrammer
+Repo: machine_learning_examples
+Stars: 3,411
+Link: https://github.com/lazyprogrammer/machine_learning_examples
+Desc: A collection of machine learning examples and tutorials.
+
+20) Name: hollischuang
+Repo: toBeTopJavaer
+Stars: 4,389
+Link: https://github.com/hollischuang/toBeTopJavaer
+Desc: To Be Top Javaer - Java工程师成神之路
+
+21) Name: php-ai
+Repo: php-ml
+Stars: 7,098
+Link: https://github.com/php-ai/php-ml
+Desc: PHP-ML - Machine Learning library for PHP
+
+22) Name: Azure
+Repo: azure-sdk-for-net
+Stars: 1,400
+Link: https://github.com/Azure/azure-sdk-for-net
+Desc: .NET Libraries for Azure
+
+23) Name: jroimartin
+Repo: gocui
+Stars: 4,743
+Link: https://github.com/jroimartin/gocui
+Desc: Minimalist Go package aimed at creating Console User Interfaces.
+
+24) Name: jesseduffield
+Repo: lazydocker
+Stars: 6,564
+Link: https://github.com/jesseduffield/lazydocker
+Desc: The lazier way to manage everything docker
+
+25) Name: llSourcell
+Repo: Learn-Natural-Language-Processing-Curriculum
+Stars: 458
+Link: https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum
+Desc: This is the curriculum for "Learn Natural Language Processing" by Siraj Raval on Youtube
+
