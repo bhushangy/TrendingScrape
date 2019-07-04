@@ -5,4 +5,5 @@ This python code scrapes the trending page of github
 3) Stars
 4) The description of the repo 
 
-Note: Have the empty file 'res.txt' in your directory 
+
+
